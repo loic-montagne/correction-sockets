@@ -1,4 +1,4 @@
-
+/*
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
 
@@ -121,7 +121,8 @@ int main()
 		}
 	}
 
-	/* On devrait faire closesocket(sock_fd); puis WSACleanup(); mais puisqu'on a entré une boucle infinie ... */
+	// On devrait faire closesocket(sock_fd); puis WSACleanup(); mais puisqu'on a entré une boucle infinie ...
 
 	return 0;
 }
+*/
