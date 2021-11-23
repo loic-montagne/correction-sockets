@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercice 1.cpp">
+    <ClCompile Include="Z:\Travail\Enseignement - Formation\YNOV\Développement logiciel avancé\Sockets\Sockets\Exercice 2.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="Exercice 2.cpp">
+    <ClCompile Include="Z:\Travail\Enseignement - Formation\YNOV\Développement logiciel avancé\Sockets\Sockets\Exercice 1.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
